@@ -1,0 +1,12 @@
+VARIABLE,DESCRIPCION
+Anio,Año de atención
+NroMes,Mes de atención
+ubigeo,Ubigeo de atención
+Departamento,Departamento de atención
+Provincia,Provincia de atención
+Distrito,Distrito de atención
+Sexo,Sexo del atendido
+Etapa,Grupo de Edad
+GrupoTamizaje,Categoría del Tamizaje
+DetalleTamizaje,Tamizaje efectuado
+Casos,Atenciones
